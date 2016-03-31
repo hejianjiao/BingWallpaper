@@ -1,6 +1,5 @@
 # BingWallpaper
 hejianjiao爬虫技术交流活动
-# BingWallpaper
 ### 需求
 （url）http://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US  
 通过如上url获取到一个json对象  
