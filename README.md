@@ -50,6 +50,6 @@ hejianjiao爬虫技术交流活动
 （沟通与问答）任何问题于本项目创建新issues  
 （时间与周期）本项目周期为一个月，项目开始时间3月30日，将于4月30日晚8点结束。
 
-### 代码提交
- 每个人创建自己的分支
+### 代码说明
+ commons-beanutils-1.8.0.jar,commons-collections-3.2.1.jar,commons-lang-2.6.jar,commons-logging-1.1.1.jar,ezmorph-1.0.6.jar,json-lib-2.4-jdk15.jar是解析json时需要用到的jar
 
